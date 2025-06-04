@@ -82,7 +82,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgba(241, 7, 171, 0.589);
     color: white;
     position: fixed;
     bottom: 0;
